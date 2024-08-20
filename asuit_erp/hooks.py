@@ -4,6 +4,38 @@ app_publisher = "ASUIT Inc"
 app_description = "Asuit Erp MManage"
 app_email = "info@asuit.jp"
 app_license = "mit"
+
+fixtures = [
+    #DocType
+    {
+        "dt": "DocType", 
+        "filters": [
+            [
+                "name", "in", [
+                    #填写ID
+                    "Bank Branch"
+                ]
+            ]
+        ]
+    },
+    #Client Script
+    {
+        "dt": "Client Script", 
+        #无条件，目标所有
+        "filters": []
+    },
+    #Custom Field
+    {   "dt": "Custom Field", 
+        "filters": [
+            [
+                "name", "in", [
+                    #填写ID
+                    "Company-custom_name_furigana"
+                ]
+            ]
+    ]}
+]
+
 # required_apps = []
 
 # Includes in <head>

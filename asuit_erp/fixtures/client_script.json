@@ -1,0 +1,13 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Client Script",
+  "dt": "User",
+  "enabled": 1,
+  "modified": "2024-08-16 17:45:06.886949",
+  "module": "Asuit Erp",
+  "name": "Custom User",
+  "script": "frappe.ui.form.on('User', {\n    refresh: function(frm) {\n        frm.toggle_display('last_name', false); // 隐藏字段\n        frm.toggle_display('full_name', false); // 隐藏字段\n        frm.toggle_display('middle_name', false); // 隐藏字段\n        frm.toggle_display('username', false); // 隐藏字段\n        //frm.toggle_display('field_name', true);  // 显示字段\n    }\n});",
+  "view": "Form"
+ }
+]
