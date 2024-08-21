@@ -1,0 +1,47 @@
+[
+ {
+  "country": "Japan",
+  "docstatus": 0,
+  "doctype": "Address Template",
+  "is_default": 1,
+  "modified": "2024-08-21 16:18:51.333144",
+  "name": "Japan",
+  "template": "{% if pincode %}{{ _(\"〒\") }} {{ pincode }}<br>{% endif -%}\n{% if state %}{{ state }} {% endif -%}{{ city }} {{ address_line1 }}<br>\n{% if address_line2 %}{{ address_line2 }}{% endif -%}\n<br>\n<br>\n{% if phone %}{{ _(\"Phone\") }}: {{ phone }}<br>{% endif -%}\n{% if fax %}{{ _(\"Fax\") }}: {{ fax }}<br>{% endif -%}\n{% if email_id %}{{ _(\"Email\") }}: {{ email_id }}<br>{% endif -%}\n"
+ },
+ {
+  "country": "United States",
+  "docstatus": 0,
+  "doctype": "Address Template",
+  "is_default": 0,
+  "modified": "2024-08-06 13:19:56.535988",
+  "name": "United States",
+  "template": "{{ address_line1 }}<br>\n{% if address_line2 %}{{ address_line2 }}<br>{% endif -%}\n{{ city }}, {% if state %}{{ state }}{% endif -%}{% if pincode %} {{ pincode }}<br>{% endif -%}\n{% if country != \"United States\" %}{{ country }}{% endif -%}\n"
+ },
+ {
+  "country": "Luxembourg",
+  "docstatus": 0,
+  "doctype": "Address Template",
+  "is_default": 0,
+  "modified": "2024-08-06 13:19:56.540569",
+  "name": "Luxembourg",
+  "template": "{% if address_line1 %}{{ address_line1 }}<br>{% endif -%}\n{% if address_line2 %}{{ address_line2 }}<br>{% endif -%}\n{% if pincode %}L-{{ pincode }}{% endif -%}{% if city %} {{ city }}{% endif %}<br>\n{% if country %}{{ country | upper }}{% endif %}\n"
+ },
+ {
+  "country": "Germany",
+  "docstatus": 0,
+  "doctype": "Address Template",
+  "is_default": 0,
+  "modified": "2024-08-06 13:19:56.544541",
+  "name": "Germany",
+  "template": "{{ address_line1 }}<br>\n{% if address_line2 %}{{ address_line2 }}<br>{% endif -%}\n{% if country in [\"Germany\", \"Deutschland\"] %}\n    {{ pincode }} {{ city }}\n{% else %}\n    {{ pincode }} {{ city | upper }}<br>\n    {{ country | upper }}\n{% endif %}\n"
+ },
+ {
+  "country": "Taiwan",
+  "docstatus": 0,
+  "doctype": "Address Template",
+  "is_default": 0,
+  "modified": "2024-08-06 13:19:56.549512",
+  "name": "Taiwan",
+  "template": "{{ country }}<br>{% if pincode %}{{ pincode }}<br>{% endif -%}{{ county }}{{ city }}{{ address_line1 }}{% if address_line2 %}{{ address_line2 }}{% endif -%}\n{% if phone %}<br>Phone: {{ phone }}{% endif -%}\n{% if fax %}<br>Fax: {{ fax }}{% endif -%}\n{% if email_id %}<br>Email: {{ email_id }}{% endif -%}\n"
+ }
+]

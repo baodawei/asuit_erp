@@ -31,5 +31,16 @@
   "name": "Custom Bank",
   "script": "frappe.ui.form.on('Bank', {\n    refresh: function(frm) {\n        frm.add_custom_button(__('View Branches'), function() {\n            frappe.route_options = {\n                'parent': frm.doc.name\n            };\n            frappe.set_route('List', 'Bank Branch', { 'parent': frm.doc.name });\n        });\n    }\n});\n",
   "view": "Form"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Client Script",
+  "dt": "Address",
+  "enabled": 1,
+  "modified": "2024-08-21 16:07:37.180896",
+  "module": null,
+  "name": "Custom CRM_ Address",
+  "script": "frappe.ui.form.on('Address', {\n    refresh: function(frm) {\n        // 隐藏 county 字段\n        frm.toggle_display('county', false);\n    }\n});\n",
+  "view": "Form"
  }
 ]

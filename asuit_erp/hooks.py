@@ -24,6 +24,17 @@ fixtures = [
         #无条件，目标所有
         "filters": []
     },
+    #Address Template
+    {   "dt": "Address Template", 
+        "filters": [
+            #[
+                #"name", "in", [
+                    #"Template Name 1", 
+                    #"Template Name 2"
+                #]
+            #]
+        ]
+    },
     #Custom Field
     {   "dt": "Custom Field", 
         "filters": [
@@ -36,7 +47,17 @@ fixtures = [
                     "Bank Account-custom_branch_name",
                     "Bank Account-custom_bank_branch",
                     "Bank-custom_bank_code",
-                    "Bank-custom_name_furigana"
+                    "Bank-custom_name_furigana",
+                    "Bank Account-custom_name_furigana_autofetch",
+                    "Bank Account-custom_bank_code_autofetch",
+                    "Sales Invoice-custom_bank_account",
+                    "Sales Invoice-custom_bank",
+                    "Sales Invoice-custom_bank_furigana_autofetch",
+                    "Sales Invoice-custom_bank_code_autofetch",
+                    "Sales Invoice-custom_branch_name_autofetch",
+                    "Sales Invoice-custom_name_furigana_autofetch",
+                    "Sales Invoice-custom_branch_code_autofetch",
+                    "Sales Invoice-custom_bank_account_no"
                 ]
             ]
     ]}
