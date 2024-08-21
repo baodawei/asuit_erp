@@ -24,6 +24,12 @@ fixtures = [
         #无条件，目标所有
         "filters": []
     },
+    #Server Script
+    {
+        "dt": "Server Script", 
+        #无条件，目标所有
+        "filters": []
+    },
     #Address Template
     {   "dt": "Address Template", 
         "filters": [

@@ -1,0 +1,21 @@
+[
+ {
+  "allow_guest": 0,
+  "api_method": null,
+  "cron_format": null,
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Server Script",
+  "doctype_event": "Before Insert",
+  "enable_rate_limit": 0,
+  "event_frequency": "All",
+  "modified": "2024-08-21 18:04:16.438497",
+  "module": null,
+  "name": "Customer_Sales Team",
+  "rate_limit_count": 5,
+  "rate_limit_seconds": 86400,
+  "reference_doctype": "Customer",
+  "script": "# 获取当前用户文档对象和角色\nuser_doc = frappe.get_doc('User', frappe.user)\n\n# 检查用户是否拥有任何豁免角色\nhas_special_role = any(\n    role.role in {'System Manager', 'Sales Master', 'Sales Master Manager'}\n    for role in user_doc.roles\n)\n\n# 如果用户没有豁免角色，进行权限过滤\nif not has_special_role:\n    # 使用 SQL 查询直接构造过滤条件\n    conditions = \"\"\"\n    name IN (\n        SELECT cust.name\n        FROM `tabCustomer` cust\n        INNER JOIN `tabSales Team` team ON cust.name = team.parent\n        INNER JOIN `tabSales Person` person ON team.sales_person = person.name\n        INNER JOIN `tabEmployee` emp ON person.employee = emp.name\n        WHERE emp.user_id = '%s'\n    )\n    \"\"\" % frappe.user\nelse:\n    conditions = None  # 拥有豁免角色的用户没有限制\n",
+  "script_type": "Permission Query"
+ }
+]
