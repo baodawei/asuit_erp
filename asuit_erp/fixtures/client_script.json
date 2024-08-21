@@ -2,6 +2,28 @@
  {
   "docstatus": 0,
   "doctype": "Client Script",
+  "dt": "Customer",
+  "enabled": 1,
+  "modified": "2024-08-21 21:09:00.035996",
+  "module": "Asuit Erp",
+  "name": "Custom Customer",
+  "script": "frappe.ui.form.on('Customer', {\n    onload: function(frm) {\n        // 设置 customer_group 为必选\n        frm.set_df_property('customer_group', 'reqd', 1);\n    }\n});\n",
+  "view": "Form"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Client Script",
+  "dt": "Employee",
+  "enabled": 1,
+  "modified": "2024-08-21 21:08:53.946652",
+  "module": "Asuit Erp",
+  "name": "Custom Employee",
+  "script": "frappe.ui.form.on('Employee', {\n\trefresh: function(frm) {\n        frm.toggle_display('last_name', false); // 隐藏字段\n        frm.toggle_display('employee_name', false); // 隐藏字段\n        frm.toggle_display('middle_name', false); // 隐藏字段\n        frm.toggle_display('salutation', false);  // 隐藏字段\n    }\n})",
+  "view": "Form"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Client Script",
   "dt": "User",
   "enabled": 1,
   "modified": "2024-08-16 17:45:06.886949",

@@ -30,7 +30,7 @@ fixtures = [
         #无条件，目标所有
         "filters": []
     },
-    #Address Template
+    #Address Template 数据
     {   "dt": "Address Template", 
         "filters": [
             #[
@@ -40,6 +40,12 @@ fixtures = [
                 #]
             #]
         ]
+    },
+    #Language 数据
+    {
+        "dt": "Language", 
+        #无条件，目标所有
+        "filters": []
     },
     #Custom Field
     {   "dt": "Custom Field", 
