@@ -69,6 +69,16 @@ fixtures = [
     ]}
 ]
 
+from frappe.utils import get_site_path, execute_cmd
+import os
+
+def before_install():
+    # 定义 bench 命令
+    command = "bench set-config -g server_script_enabled 1"
+    
+    # 通过 os.system 执行命令
+    os.system(command)
+
 # required_apps = []
 
 # Includes in <head>
