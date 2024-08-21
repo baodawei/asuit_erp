@@ -69,16 +69,19 @@ fixtures = [
     ]}
 ]
 
-from frappe.utils import get_site_path, execute_cmd
-import os
-
-def before_install():
+import subprocess
+def after_install():
     # 定义 bench 命令
     command = "bench set-config -g server_script_enabled 1"
     
-    # 通过 os.system 执行命令
-    os.system(command)
-
+    # 执行命令
+    try:
+        result = subprocess.run(command, shell=True, check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        print("Command output:", result.stdout.decode())
+        print("Command error (if any):", result.stderr.decode())
+    except subprocess.CalledProcessError as e:
+        print("An error occurred while executing the command:", e)
+        
 # required_apps = []
 
 # Includes in <head>
