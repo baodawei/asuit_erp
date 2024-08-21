@@ -13,8 +13,7 @@ fixtures = [
             [
                 "name", "in", [
                     #填写ID
-                    "Bank Branch",
-                    "Bank Account"
+                    "Bank Branch"
                 ]
             ]
         ]
