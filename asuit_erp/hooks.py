@@ -34,7 +34,9 @@ fixtures = [
                     "Bank Account-custom_branch_code_autofetch",
                     "Bank Account-custom_name_furigana",
                     "Bank Account-custom_branch_name",
-                    "Bank Account-custom_bank_branch"
+                    "Bank Account-custom_bank_branch",
+                    "Bank-custom_bank_code",
+                    "Bank-custom_name_furigana"
                 ]
             ]
     ]}

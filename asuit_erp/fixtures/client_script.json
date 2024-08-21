@@ -20,5 +20,16 @@
   "name": "Custom Bank Account",
   "script": "frappe.ui.form.on('Bank Account', {\n    // 当自定义字段 custom_branch_code_autofetch 的值改变时\n    custom_branch_code_autofetch: function (frm) {\n        // 获取 custom_branch_code_autofetch 的值\n        let branchCode = frm.doc.custom_branch_code_autofetch;\n\n        // 将值赋给 branch_code 字段\n        frm.set_value('branch_code', branchCode);\n    },\n    \n    // 在表单加载时隐藏 branch_code 字段\n    onload: function (frm) {\n        frm.toggle_display('branch_code', false);\n    }\n});\n",
   "view": "Form"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Client Script",
+  "dt": "Bank",
+  "enabled": 1,
+  "modified": "2024-08-21 12:08:58.470675",
+  "module": null,
+  "name": "Custom Bank",
+  "script": "frappe.ui.form.on('Bank', {\n    refresh: function(frm) {\n        frm.add_custom_button(__('View Branches'), function() {\n            frappe.route_options = {\n                'parent': frm.doc.name\n            };\n            frappe.set_route('List', 'Bank Branch', { 'parent': frm.doc.name });\n        });\n    }\n});\n",
+  "view": "Form"
  }
 ]
