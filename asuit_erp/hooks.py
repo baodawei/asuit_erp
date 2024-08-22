@@ -6,14 +6,15 @@ app_email = "info@asuit.jp"
 app_license = "mit"
 
 fixtures = [
-    #DocType 
+    #DocType 不带数据
     {
         "dt": "DocType", 
         "filters": [
             [
                 "name", "in", [
-                    #填写ID
-                    "Bank Branch"
+                    #填写DocType的ID
+                    "Bank Branch",
+                    "Print Format Group"
                 ]
             ]
         ]
@@ -65,9 +66,21 @@ fixtures = [
             ]
         ]
     },
-    #Translation 数据
+    #Translation 数据（翻译）
     {
         "dt": "Translation", 
+        #无条件，目标所有
+        "filters": []
+    },
+    #Bank 数据
+    {
+        "dt": "Bank", 
+        #无条件，目标所有
+        "filters": []
+    },
+    #Bank Branch 数据
+    {
+        "dt": "Bank Branch", 
         #无条件，目标所有
         "filters": []
     },

@@ -1,0 +1,28 @@
+[
+ {
+  "bank_name": "住信ＳＢＩネット銀行",
+  "bank_transaction_mapping": [],
+  "custom_bank_code": "0038",
+  "custom_name_furigana": "ｽﾐｼﾝｴｽﾋﾞ-ｱｲﾈﾂﾄ",
+  "docstatus": 0,
+  "doctype": "Bank",
+  "modified": "2024-08-21 14:23:50.257469",
+  "name": "住信ＳＢＩネット銀行",
+  "plaid_access_token": null,
+  "swift_number": null,
+  "website": null
+ },
+ {
+  "bank_name": "三菱ＵＦＪ銀行",
+  "bank_transaction_mapping": [],
+  "custom_bank_code": "0005",
+  "custom_name_furigana": "ﾐﾂﾋﾞｼﾕ-ｴﾌｼﾞｴｲ",
+  "docstatus": 0,
+  "doctype": "Bank",
+  "modified": "2024-08-21 14:24:22.713655",
+  "name": "三菱ＵＦＪ銀行",
+  "plaid_access_token": null,
+  "swift_number": null,
+  "website": null
+ }
+]
