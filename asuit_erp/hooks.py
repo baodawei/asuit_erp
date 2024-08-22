@@ -1,7 +1,7 @@
 app_name = "asuit_erp"
-app_title = "Asuit Erp"
+app_title = "ASUiT ERP"
 app_publisher = "ASUIT Inc"
-app_description = "Asuit Erp MManage"
+app_description = "ASUiT ERP Manage"
 app_email = "info@asuit.jp"
 app_license = "mit"
 
