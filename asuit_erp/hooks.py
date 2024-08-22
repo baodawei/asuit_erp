@@ -60,11 +60,7 @@ fixtures = [
         "filters": [
             [
                 "name", "in", [
-                    "Bank Transfer", 
-                    "Credit Card",
-                    "Bank Draft",
-                    "Wire Transfer",
-                    "Cheque"
+                    "Bank Transfer"
                 ]
             ]
         ]

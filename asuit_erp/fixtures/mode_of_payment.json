@@ -3,46 +3,6 @@
   "accounts": [],
   "docstatus": 0,
   "doctype": "Mode of Payment",
-  "enabled": 0,
-  "mode_of_payment": "Cheque",
-  "modified": "2024-08-22 10:21:42.033754",
-  "name": "Cheque",
-  "type": "Bank"
- },
- {
-  "accounts": [],
-  "docstatus": 0,
-  "doctype": "Mode of Payment",
-  "enabled": 0,
-  "mode_of_payment": "Credit Card",
-  "modified": "2024-08-22 10:20:29.782484",
-  "name": "Credit Card",
-  "type": "Bank"
- },
- {
-  "accounts": [],
-  "docstatus": 0,
-  "doctype": "Mode of Payment",
-  "enabled": 0,
-  "mode_of_payment": "Wire Transfer",
-  "modified": "2024-08-22 10:21:35.668877",
-  "name": "Wire Transfer",
-  "type": "Bank"
- },
- {
-  "accounts": [],
-  "docstatus": 0,
-  "doctype": "Mode of Payment",
-  "enabled": 0,
-  "mode_of_payment": "Bank Draft",
-  "modified": "2024-08-22 10:20:47.888029",
-  "name": "Bank Draft",
-  "type": "Bank"
- },
- {
-  "accounts": [],
-  "docstatus": 0,
-  "doctype": "Mode of Payment",
   "enabled": 1,
   "mode_of_payment": "Bank Transfer",
   "modified": "2024-08-22 10:24:38.716012",
