@@ -47,6 +47,24 @@ fixtures = [
         #无条件，目标所有
         "filters": []
     },
+    #Bank Account Type 数据
+    {
+        "dt": "Bank Account Type", 
+        #无条件，目标所有
+        "filters": []
+    },
+    #Mode of Payment 数据
+    {
+        "dt": "Mode of Payment", 
+        #无条件，目标所有
+        "filters": []
+    },
+    #Translation 数据
+    {
+        "dt": "Translation", 
+        #无条件，目标所有
+        "filters": []
+    },
     #Custom Field
     {   "dt": "Custom Field", 
         "filters": [
