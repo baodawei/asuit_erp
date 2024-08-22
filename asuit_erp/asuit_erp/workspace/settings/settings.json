@@ -1,0 +1,381 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"QQxzaduWMl\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Module Def\",\"col\":3}},{\"id\":\"QxmbhOYmrW\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Settings</span>\",\"col\":12}},{\"id\":\"7YKU-zFpg4\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Delivery Settings\",\"col\":3}},{\"id\":\"7lbAKoRALt\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Item Variant Settings\",\"col\":3}},{\"id\":\"3kiczA6ydT\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Sms Settings\",\"col\":3}},{\"id\":\"4XizU_fjFr\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"List View Settings\",\"col\":3}},{\"id\":\"WXvHzZwP5a\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Subscription Settings\",\"col\":3}},{\"id\":\"8ZBAZ0hqgk\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"About Us Settings\",\"col\":3}},{\"id\":\"cj9Z3q-sX9\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Dashboard Settings\",\"col\":3}},{\"id\":\"qxp3rN37cz\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Print Settings\",\"col\":3}},{\"id\":\"goHlu2nvfy\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Notification Settings\",\"col\":3}},{\"id\":\"CCX1jD50MM\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Crm Settings\",\"col\":3}},{\"id\":\"qDQNxkL3cW\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Session Default Settings\",\"col\":3}},{\"id\":\"ODyMRfJ8gB\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Network Printer Settings\",\"col\":3}},{\"id\":\"lg_eFbWcwZ\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Ldap Settings\",\"col\":3}},{\"id\":\"VqoEF3YFIH\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Contact Us Settings\",\"col\":3}},{\"id\":\"9MinDJjlpS\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Document Naming Settings\",\"col\":3}},{\"id\":\"-8gumoFckp\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"S3 Backup Settings\",\"col\":3}},{\"id\":\"3w9ToShCWP\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Dropbox Settings\",\"col\":3}},{\"id\":\"E5UynIwk9-\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Video Settings\",\"col\":3}},{\"id\":\"UuD_0Jt72H\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Plaid Settings\",\"col\":3}},{\"id\":\"VZE3MiGkHl\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Currency Exchange Settings\",\"col\":3}},{\"id\":\"095OE3BZJ2\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Navbar Settings\",\"col\":3}},{\"id\":\"V0nYRPaLj1\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Energy Point Settings\",\"col\":3}},{\"id\":\"n-zWHeIget\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Log Settings\",\"col\":3}},{\"id\":\"JdycBlj9aT\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Accounts Settings\",\"col\":3}},{\"id\":\"6vjX_TVT4F\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Pos Settings\",\"col\":3}},{\"id\":\"OsNDf6U1ei\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Payroll Settings\",\"col\":3}},{\"id\":\"Ee1Ak5hlK3\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Selling Settings\",\"col\":3}},{\"id\":\"tbupvkSbyu\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Repost Accounting Ledger Settings\",\"col\":3}},{\"id\":\"D70jif2q4t\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Portal Settings\",\"col\":3}},{\"id\":\"wXWTh0sbzv\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Hr Settings\",\"col\":3}},{\"id\":\"2qsAxp5MNK\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Stock Reposting Settings\",\"col\":3}},{\"id\":\"Q3Tdm8qPQ9\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"System Settings\",\"col\":3}},{\"id\":\"-KB62ZTc1l\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Appointment Booking Settings\",\"col\":3}},{\"id\":\"px2FgcgNAr\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Voice Call Settings\",\"col\":3}},{\"id\":\"ZH8e7TvG-O\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Google Settings\",\"col\":3}},{\"id\":\"iSKp7SApNZ\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Manufacturing Settings\",\"col\":3}},{\"id\":\"-0K8y0h-RZ\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Buying Settings\",\"col\":3}},{\"id\":\"jdKTZXyHSY\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Support Settings\",\"col\":3}},{\"id\":\"ssiyybj_m2\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Domain Settings\",\"col\":3}},{\"id\":\"-rQDnH64yv\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"South Africa Vat Settings\",\"col\":3}},{\"id\":\"SjqfQvmdbZ\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Projects Settings\",\"col\":3}},{\"id\":\"dw4FpRgw44\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Incoming Call Settings\",\"col\":3}},{\"id\":\"rSsjAOyaZM\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Blog Settings\",\"col\":3}},{\"id\":\"6hj7z6HQRc\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Push Notification Settings\",\"col\":3}},{\"id\":\"wplDRD8GXL\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Oauth Provider Settings\",\"col\":3}},{\"id\":\"3Qg2Dy9poE\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Stock Settings\",\"col\":3}},{\"id\":\"Vr9Wul0OZv\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Global Search Settings\",\"col\":3}},{\"id\":\"zYDfoRS7Gk\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Website Settings\",\"col\":3}}]",
+ "creation": "2024-08-22 12:53:56.805322",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "setting-gear",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Settings",
+ "links": [],
+ "modified": "2024-08-22 13:13:44.290598",
+ "modified_by": "Administrator",
+ "module": "ASUiT ERP",
+ "name": "Settings",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 39.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Module Def",
+   "link_to": "Module Def",
+   "stats_filter": "[[\"Module Def\",\"name\",\"=\",\"ASUiT ERP\",false]]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Delivery Settings",
+   "link_to": "Delivery Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Item Variant Settings",
+   "link_to": "Item Variant Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Sms Settings",
+   "link_to": "SMS Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "List View Settings",
+   "link_to": "List View Settings",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Subscription Settings",
+   "link_to": "Subscription Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "About Us Settings",
+   "link_to": "About Us Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Dashboard Settings",
+   "link_to": "Dashboard Settings",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Print Settings",
+   "link_to": "Print Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Notification Settings",
+   "link_to": "Notification Settings",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Crm Settings",
+   "link_to": "CRM Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Session Default Settings",
+   "link_to": "Session Default Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Network Printer Settings",
+   "link_to": "Network Printer Settings",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Ldap Settings",
+   "link_to": "LDAP Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Contact Us Settings",
+   "link_to": "Contact Us Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Document Naming Settings",
+   "link_to": "Document Naming Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "S3 Backup Settings",
+   "link_to": "S3 Backup Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Dropbox Settings",
+   "link_to": "Dropbox Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Video Settings",
+   "link_to": "Video Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Plaid Settings",
+   "link_to": "Plaid Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Currency Exchange Settings",
+   "link_to": "Currency Exchange Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Navbar Settings",
+   "link_to": "Navbar Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Energy Point Settings",
+   "link_to": "Energy Point Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Log Settings",
+   "link_to": "Log Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Accounts Settings",
+   "link_to": "Accounts Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Pos Settings",
+   "link_to": "POS Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Payroll Settings",
+   "link_to": "Payroll Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Selling Settings",
+   "link_to": "Selling Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Repost Accounting Ledger Settings",
+   "link_to": "Repost Accounting Ledger Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Portal Settings",
+   "link_to": "Portal Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Hr Settings",
+   "link_to": "HR Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Stock Reposting Settings",
+   "link_to": "Stock Reposting Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "System Settings",
+   "link_to": "System Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Appointment Booking Settings",
+   "link_to": "Appointment Booking Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Voice Call Settings",
+   "link_to": "Voice Call Settings",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Google Settings",
+   "link_to": "Google Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Manufacturing Settings",
+   "link_to": "Manufacturing Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Buying Settings",
+   "link_to": "Buying Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Support Settings",
+   "link_to": "Support Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Domain Settings",
+   "link_to": "Domain Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "South Africa Vat Settings",
+   "link_to": "South Africa VAT Settings",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Projects Settings",
+   "link_to": "Projects Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Incoming Call Settings",
+   "link_to": "Incoming Call Settings",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Blog Settings",
+   "link_to": "Blog Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Push Notification Settings",
+   "link_to": "Push Notification Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Oauth Provider Settings",
+   "link_to": "OAuth Provider Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Stock Settings",
+   "link_to": "Stock Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Global Search Settings",
+   "link_to": "Global Search Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Website Settings",
+   "link_to": "Website Settings",
+   "type": "DocType"
+  }
+ ],
+ "title": "Settings"
+}
