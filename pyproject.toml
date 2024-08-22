@@ -3,7 +3,7 @@ name = "asuit_erp"
 authors = [
     { name = "ASUIT Inc", email = "info@asuit.jp"}
 ]
-description = "Asuit Erp MManage"
+description = "ASUiT ERP Manage"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]
