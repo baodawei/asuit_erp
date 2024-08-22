@@ -1,0 +1,209 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"d3OcAFQNfc\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Logs</span>\",\"col\":12}},{\"id\":\"JETTeK7fip\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Transaction Log Report\",\"col\":3}},{\"id\":\"hfYkZaIFPv\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Transaction Log\",\"col\":3}},{\"id\":\"qhrKhd4mKY\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Asset Maintenance Log\",\"col\":3}},{\"id\":\"QnwGq0i4hW\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Bulk Transaction Log\",\"col\":3}},{\"id\":\"LkCXjW1XJy\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Vehicle Log\",\"col\":3}},{\"id\":\"UZLnKXnUhh\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Webhook Request Log\",\"col\":3}},{\"id\":\"3SBocp7EAM\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Console Log\",\"col\":3}},{\"id\":\"f7J_9wZx8e\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"View Log\",\"col\":3}},{\"id\":\"tovNgiqYw0\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Bulk Transaction Log Detail\",\"col\":3}},{\"id\":\"DnqS-HcWOc\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Process Payment Reconciliation Log\",\"col\":3}},{\"id\":\"i4nzVruZA0\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Error Log\",\"col\":3}},{\"id\":\"rpnh-0RXOL\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"BOM Update Log\",\"col\":3}},{\"id\":\"V4pxF4wy0X\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Energy Point Log\",\"col\":3}},{\"id\":\"oz4GlVdt4e\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Activity Log\",\"col\":3}},{\"id\":\"a2cJwyXnk0\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Scheduled Job Log\",\"col\":3}},{\"id\":\"5T75Mj9fR6\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Call Log\",\"col\":3}},{\"id\":\"UVj_vqZTKm\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Patch Log\",\"col\":3}},{\"id\":\"wKuvOTNoh7\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Data Import Log\",\"col\":3}},{\"id\":\"9MLB6MMpPI\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Notification Log\",\"col\":3}},{\"id\":\"xM9TAWvIOF\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Access Log\",\"col\":3}},{\"id\":\"YqZhSXdUpM\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Pos Invoice Merge Log\",\"col\":3}},{\"id\":\"TPbGbEc6wZ\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"SMS Log\",\"col\":3}}]",
+ "creation": "2024-08-22 14:13:37.651495",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "milestone",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Logs",
+ "links": [],
+ "modified": "2024-08-22 14:27:51.089238",
+ "modified_by": "Administrator",
+ "module": "ASUiT ERP",
+ "name": "Logs",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "Management",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [
+  {
+   "role": "System Manager"
+  }
+ ],
+ "sequence_id": 34.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Transaction Log",
+   "link_to": "Transaction Log",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Call Log",
+   "link_to": "Call Log",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Transaction Log Report",
+   "link_to": "Transaction Log Report",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Asset Maintenance Log",
+   "link_to": "Asset Maintenance Log",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Patch Log",
+   "link_to": "Patch Log",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Bulk Transaction Log",
+   "link_to": "Bulk Transaction Log",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Data Import Log",
+   "link_to": "Data Import Log",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Vehicle Log",
+   "link_to": "Vehicle Log",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Notification Log",
+   "link_to": "Notification Log",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Webhook Request Log",
+   "link_to": "Webhook Request Log",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Access Log",
+   "link_to": "Access Log",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Console Log",
+   "link_to": "Console Log",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Pos Invoice Merge Log",
+   "link_to": "POS Invoice Merge Log",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "View Log",
+   "link_to": "View Log",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "SMS Log",
+   "link_to": "SMS Log",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Bulk Transaction Log Detail",
+   "link_to": "Bulk Transaction Log Detail",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Process Payment Reconciliation Log",
+   "link_to": "Process Payment Reconciliation Log",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Error Log",
+   "link_to": "Error Log",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "BOM Update Log",
+   "link_to": "BOM Update Log",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Energy Point Log",
+   "link_to": "Energy Point Log",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Activity Log",
+   "link_to": "Activity Log",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Scheduled Job Log",
+   "link_to": "Scheduled Job Log",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "Logs"
+}

@@ -1,0 +1,42 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"A-RP-MwfPk\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Management</span>\",\"col\":12}},{\"id\":\"OkB4pyvQHF\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Module Def\",\"col\":3}}]",
+ "creation": "2024-08-22 14:09:37.671850",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "drag",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Management",
+ "links": [],
+ "modified": "2024-08-22 14:26:10.534640",
+ "modified_by": "Administrator",
+ "module": "ASUiT ERP",
+ "name": "Management",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [
+  {
+   "role": "System Manager"
+  }
+ ],
+ "sequence_id": 1.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Module Def",
+   "link_to": "Module Def",
+   "stats_filter": "[[\"Module Def\",\"name\",\"=\",\"ASUiT ERP\",false]]",
+   "type": "DocType"
+  }
+ ],
+ "title": "Management"
+}
