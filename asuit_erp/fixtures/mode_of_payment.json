@@ -10,31 +10,6 @@
   "type": "Bank"
  },
  {
-  "accounts": [
-   {
-    "company": "株式会社TEST",
-    "default_account": "1110 - Cash - 株）TEST",
-    "parent": "Cash",
-    "parentfield": "accounts",
-    "parenttype": "Mode of Payment"
-   },
-   {
-    "company": "株式会社ASUIT",
-    "default_account": "1110 - 現金 - 株）ASUIT",
-    "parent": "Cash",
-    "parentfield": "accounts",
-    "parenttype": "Mode of Payment"
-   }
-  ],
-  "docstatus": 0,
-  "doctype": "Mode of Payment",
-  "enabled": 1,
-  "mode_of_payment": "Cash",
-  "modified": "2024-08-06 13:23:00.825353",
-  "name": "Cash",
-  "type": "Cash"
- },
- {
   "accounts": [],
   "docstatus": 0,
   "doctype": "Mode of Payment",

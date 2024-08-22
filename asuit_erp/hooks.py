@@ -57,7 +57,17 @@ fixtures = [
     {
         "dt": "Mode of Payment", 
         #无条件，目标所有
-        "filters": []
+        "filters": [
+            [
+                "name", "in", [
+                    "Bank Transfer", 
+                    "Credit Card",
+                    "Bank Draft",
+                    "Wire Transfer",
+                    "Cheque"
+                ]
+            ]
+        ]
     },
     #Translation 数据
     {
