@@ -13,7 +13,7 @@
  "is_hidden": 0,
  "label": "Settings",
  "links": [],
- "modified": "2024-08-22 14:26:26.726097",
+ "modified": "2024-08-22 14:34:33.144795",
  "modified_by": "Administrator",
  "module": "ASUiT ERP",
  "name": "Settings",
@@ -27,7 +27,7 @@
    "role": "System Manager"
   }
  ],
- "sequence_id": 2.0,
+ "sequence_id": 33.0,
  "shortcuts": [
   {
    "color": "Grey",
