@@ -6,7 +6,7 @@ app_email = "info@asuit.jp"
 app_license = "mit"
 
 fixtures = [
-    #DocType
+    #DocType 
     {
         "dt": "DocType", 
         "filters": [
