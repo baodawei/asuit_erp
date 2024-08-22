@@ -13,8 +13,7 @@ fixtures = [
             [
                 "name", "in", [
                     #填写DocType的ID
-                    "Bank Branch",
-                    "Print Format Group"
+                    "Bank Branch"
                 ]
             ]
         ]
