@@ -53,6 +53,12 @@ fixtures = [
         #无条件，目标所有
         "filters": []
     },
+    #Print Format 数据
+    {
+        "dt": "Print Format", 
+        #无条件，目标所有
+        "filters": []
+    },
     #Mode of Payment 数据
     {
         "dt": "Mode of Payment", 
@@ -64,6 +70,12 @@ fixtures = [
                 ]
             ]
         ]
+    },
+    #Terms and Conditions 数据
+    {
+        "dt": "Terms and Conditions", 
+        #无条件，目标所有
+        "filters": []
     },
     #Translation 数据（翻译）
     {
@@ -105,7 +117,8 @@ fixtures = [
                     "Sales Invoice-custom_branch_name_autofetch",
                     "Sales Invoice-custom_name_furigana_autofetch",
                     "Sales Invoice-custom_branch_code_autofetch",
-                    "Sales Invoice-custom_bank_account_no"
+                    "Sales Invoice-custom_bank_account_no",
+                    "Sales Invoice-custom_bank_account_type"
                 ]
             ]
     ]}

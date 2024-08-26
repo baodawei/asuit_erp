@@ -896,10 +896,10 @@
   "doctype": "Language",
   "enabled": 1,
   "flag": null,
-  "language_code": "ja",
-  "language_name": "日本語",
-  "modified": "2024-08-06 09:42:33.123843",
-  "name": "ja"
+  "language_code": "en",
+  "language_name": "English",
+  "modified": "2024-08-06 09:42:33.093185",
+  "name": "en"
  },
  {
   "based_on": null,
@@ -907,9 +907,9 @@
   "doctype": "Language",
   "enabled": 1,
   "flag": null,
-  "language_code": "en",
-  "language_name": "English",
-  "modified": "2024-08-06 09:42:33.093185",
-  "name": "en"
+  "language_code": "ja",
+  "language_name": "日本語",
+  "modified": "2024-08-06 09:42:33.123843",
+  "name": "ja"
  }
 ]

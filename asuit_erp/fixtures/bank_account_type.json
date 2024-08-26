@@ -1,9 +1,9 @@
 [
  {
-  "account_type": "Ordinary",
+  "account_type": "普通",
   "docstatus": 0,
   "doctype": "Bank Account Type",
-  "modified": "2024-08-22 10:16:19.296718",
-  "name": "Ordinary"
+  "modified": "2024-08-26 15:54:46.402024",
+  "name": "普通"
  }
 ]
