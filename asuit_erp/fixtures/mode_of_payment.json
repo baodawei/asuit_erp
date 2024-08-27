@@ -1,11 +1,19 @@
 [
  {
-  "accounts": [],
+  "accounts": [
+   {
+    "company": "株式会社ASUIT",
+    "default_account": "三菱ＵＦＪ銀行-135 - 株）ASUIT",
+    "parent": "Bank Transfer",
+    "parentfield": "accounts",
+    "parenttype": "Mode of Payment"
+   }
+  ],
   "docstatus": 0,
   "doctype": "Mode of Payment",
   "enabled": 1,
   "mode_of_payment": "Bank Transfer",
-  "modified": "2024-08-22 10:24:38.716012",
+  "modified": "2024-08-26 18:12:59.377171",
   "name": "Bank Transfer",
   "type": "Bank"
  }
